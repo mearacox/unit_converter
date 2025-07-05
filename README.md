@@ -4,7 +4,7 @@ A sleek and user-friendly React Native app powered by a FastAPI backend that let
 
 ## APK Download
 
-Download the latest Android `.apk` from the [Releases](https://github.com/yourusername/your-repo/releases) section and install it on an android device to try the app immediately—no build needed!
+Download the latest Android `.apk` from the [Releases](https://github.com/mearacox/unit_converter/releases) section and install it on an android device to try the app immediately—no build needed!
 
 ## Features
 
