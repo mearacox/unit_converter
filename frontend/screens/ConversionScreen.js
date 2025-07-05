@@ -91,7 +91,7 @@ export default function ConversionScreen({ route, navigation }) {
     loadingAnim.setValue(0);
   };
 
-  const API_URL = "https://7c6c-129-252-5-43.ngrok-free.app";
+  const API_URL = "https://unit-converter-8zk2.onrender.com";
 
   const handleConvert = async () => {
     if (!isReady) return;
